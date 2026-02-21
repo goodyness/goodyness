@@ -5,51 +5,53 @@ I’m a Python Developer focused on building efficient, scalable, and maintainab
 
 🐍 What I do
 
-Develop backend applications and services using Python
+- Develop backend applications and services using Python
 
-Design and maintain APIs
+- Design and maintain APIs
 
-Write clean, well-documented, and testable code
+- Write clean, well-documented, and testable code
 
-Debug, optimize, and refactor existing systems
+- Debug, optimize, and refactor existing systems
 
-Collaborate with teams using Git-based workflows
+- Collaborate with teams using Git-based workflows
 
 
 🛠️ Tech Stack
 
-Languages: Python
+- Languages: Python
 
-Frameworks & Tools: Django, Flask, FastAPI
+- Frameworks & Tools: Django, Flask, FastAPI
 
-Databases: PostgreSQL, MySQL, SQLite
+- Databases: PostgreSQL, MySQL, SQLite
 
-Other: Git, REST APIs, Docker (basic), Linux
+- Other: Git, REST APIs, Docker (basic), Linux
 
 
 🚀 What I’m working on
 
-Backend systems and APIs
+- Backend systems and APIs
 
-Improving performance and scalability
+- Improving performance and scalability
 
-Writing production-ready Python code
+- Writing production-ready Python code
 
 
 🤝 Open to collaborating on
 
-Backend & API-focused projects
+- Backend & API-focused projects
 
-Open-source Python projects
+- Open-source Python projects
 
-Automation, scripting, and data-driven applications
+- Automation, scripting, and data-driven applications
 
 
 📫 How to reach me
 
-GitHub: @goodyness
+- GitHub: @goodyness
 
-Email: adediranadedamolagoodness@gmail.com
+- Email: adediranadedamolagoodness@gmail.com
+
+- Portfolio: https://adedamola.online
 
 
 
