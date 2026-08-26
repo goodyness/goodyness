@@ -2,7 +2,7 @@
 
 ### Python / Django Developer building scalable backend systems, APIs, and SaaS products.
 
-I enjoy turning ideas into reliable software — from backend architecture and APIs to automation and production systems.
+I enjoy turning ideas into reliable software, from backend architecture and APIs to automation and production systems.
 
 **Core Stack**
 
@@ -21,7 +21,7 @@ I enjoy turning ideas into reliable software — from backend architecture and A
 
 ### Currently Building
 
-**BursaPay**- a payment infrastructure platform for organizations, events, and developers.
+**BursaPay**, a payment infrastructure platform for organizations, events, and developers.
 
 ### Let's Connect
 
