@@ -1,60 +1,32 @@
-👋 Hi, I’m @goodyness
+# Hi, I'm Adedamola
 
-I’m a Python Developer focused on building efficient, scalable, and maintainable software solutions. I enjoy solving complex problems, writing clean code, and collaborating on impactful projects.
+### Python / Django Developer building scalable backend systems, APIs, and SaaS products.
 
+I enjoy turning ideas into reliable software — from backend architecture and APIs to automation and production systems.
 
-🐍 What I do
+**Core Stack**
 
-- Develop backend applications and services using Python
+* **Python** · Django · Django REST Framework · FastAPI
+* **PostgreSQL** · MySQL · Redis
+* **Celery** · REST APIs · Docker · Linux
+* **SaaS** · APIs · Automation · AI
 
-- Design and maintain APIs
+### What I Build
 
-- Write clean, well-documented, and testable code
+* Backend systems and REST APIs
+* SaaS products
+* Payment and fintech integrations
+* Automation and developer tools
+* AI-powered applications
 
-- Debug, optimize, and refactor existing systems
+### Currently Building
 
-- Collaborate with teams using Git-based workflows
+**BursaPay** — a payment infrastructure platform for organizations, events, and developers.
 
+### Let's Connect
 
-🛠️ Tech Stack
+* **Portfolio:** https://adedamola.online
+* **Email:** [adediranadedamolagoodness@gmail.com](mailto:adediranadedamolagoodness@gmail.com)
+* **GitHub:** https://github.com/goodyness
 
-- Languages: Python
-
-- Frameworks & Tools: Django, Flask, FastAPI
-
-- Databases: PostgreSQL, MySQL, SQLite
-
-- Other: Git, REST APIs, Docker (basic), Linux
-
-
-🚀 What I’m working on
-
-- Backend systems and APIs
-
-- Improving performance and scalability
-
-- Writing production-ready Python code
-
-
-🤝 Open to collaborating on
-
-- Backend & API-focused projects
-
-- Open-source Python projects
-
-- Automation, scripting, and data-driven applications
-
-
-📫 How to reach me
-
-- GitHub: @goodyness
-
-- Email: adediranadedamolagoodness@gmail.com
-
-- Portfolio: https://adedamola.online
-
-
-
-⚡ Fun fact
-
-I turn ideas into Python code faster than coffee kicks in ☕🐍
+> I build. I test. I break. I learn.
