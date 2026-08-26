@@ -21,7 +21,7 @@ I enjoy turning ideas into reliable software — from backend architecture and A
 
 ### Currently Building
 
-**BursaPay** — a payment infrastructure platform for organizations, events, and developers.
+**BursaPay**- a payment infrastructure platform for organizations, events, and developers.
 
 ### Let's Connect
 
